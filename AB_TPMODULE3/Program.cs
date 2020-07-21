@@ -36,6 +36,7 @@ namespace AB_TPMODULE3
 
             Console.WriteLine($"Le Livre qui contient le plus de page est {query4.Titre} ");
             Console.WriteLine();
+            
             var query5 = ListeAuteurs.Average(s => s.Factures.Sum(f => f.Montant));
                         
             Console.WriteLine($"Les auteurs ont gagné en moyenne {query5}");
@@ -56,7 +57,7 @@ namespace AB_TPMODULE3
             }
             Console.WriteLine();
             var query7 = ListeLivres.OrderBy(l => l.Titre);
-            Console.WriteLine("Titres des livres trés par ordre alphabétique :");
+            Console.WriteLine("Titres des livres triés par ordre alphabétique :");
             foreach (var livre in query7)
             {
                 Console.WriteLine($"{livre.Titre}");
