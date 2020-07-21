@@ -1,0 +1,7 @@
+C:\Users\abichon\source\repos\AB_TPMODULE3\AB_TPMODULE3\bin\Debug\AB_TPMODULE3.exe.config
+C:\Users\abichon\source\repos\AB_TPMODULE3\AB_TPMODULE3\bin\Debug\AB_TPMODULE3.exe
+C:\Users\abichon\source\repos\AB_TPMODULE3\AB_TPMODULE3\bin\Debug\AB_TPMODULE3.pdb
+C:\Users\abichon\source\repos\AB_TPMODULE3\AB_TPMODULE3\obj\Debug\AB_TPMODULE3.csprojAssemblyReference.cache
+C:\Users\abichon\source\repos\AB_TPMODULE3\AB_TPMODULE3\obj\Debug\AB_TPMODULE3.csproj.CoreCompileInputs.cache
+C:\Users\abichon\source\repos\AB_TPMODULE3\AB_TPMODULE3\obj\Debug\AB_TPMODULE3.exe
+C:\Users\abichon\source\repos\AB_TPMODULE3\AB_TPMODULE3\obj\Debug\AB_TPMODULE3.pdb
